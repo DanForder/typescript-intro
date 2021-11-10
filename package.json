@@ -1,0 +1,22 @@
+{
+  "name": "typescript-intro",
+  "version": "1.0.0",
+  "description": "Introduction to TS",
+  "main": "app.js",
+  "scripts": {
+    "watch-typescript": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanForder/typescript-intro.git"
+  },
+  "author": "Dan Forder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanForder/typescript-intro/issues"
+  },
+  "homepage": "https://github.com/DanForder/typescript-intro#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}
