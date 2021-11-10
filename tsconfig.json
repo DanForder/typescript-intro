@@ -1,8 +1,6 @@
 {
   "compilerOptions": {
-    "module": "commonjs",
-    "noImplicitAny": false,
-    "removeComments": false
+    "module": "commonjs"
   },
   "exclude": ["node_modules", ".npm"]
 }
